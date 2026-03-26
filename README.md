@@ -47,8 +47,8 @@ El objetivo de este entorno es servir como un banco de pruebas controlado para e
 
 ---
 
-## Bitácora de Casos de Estudio y Troubleshooting Realizados
-1. [Paso de hardware Bluetooth (hci0) a contenedores Docker en CasaOS](./01-troubleshooting-bluetooth/README.md)
+
 
 ---
-Contacto Profesional: https://www.linkedin.com/in/diego-artavia-valverde
+Contacto Profesional: https://www.linkedin.com/in/diego-artavia-valverde , diartavia@gmail.com
+
