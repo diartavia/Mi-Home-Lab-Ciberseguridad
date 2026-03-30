@@ -16,7 +16,7 @@ El objetivo de este entorno es servir como un banco de pruebas controlado para e
 ### Fase 2: Auditoría, Monitoreo y Domótica Local
 - [ ] Mapeo de superficie de ataque y auditorías perimetrales de puertos locales con Nmap.
 - [ ] Despliegue de Uptime Kuma para observabilidad de red y telemetría de hardware.
-- [ ] Centralización de IoT local mediante Home Assistant (Integración de dispositivos Bluetooth BLE).
+- [X] Centralización de IoT local mediante Home Assistant (Integración de dispositivos Bluetooth BLE).
 
 ### Fase 3: Seguridad de Red Avanzada
 - [ ] Implementación de un Resolver DNS recursivo (Unbound + Pi-hole) para validación DNSSEC y mitigación de DNS Spoofing.
