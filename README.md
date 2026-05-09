@@ -33,7 +33,7 @@ El objetivo de este entorno es servir como un banco de pruebas controlado para e
 
 ### Fase 5: Microservicios, IA y Criptografía Aplicada
 - [ ] Orquestación de contenedores de alta disponibilidad mediante Kubernetes liviano (K3s Multi-Nodo).
-- [ ] Despliegue de Modelos de Lenguaje Locales (Private LLM / IA Local) mediante Ollama.
+- [X] Despliegue de Modelos de Lenguaje Locales (Private LLM / IA Local) mediante Ollama.
 - [ ] Nodo de computación cifrada utilizando Criptografía Homomórfica (FHE).
 - [ ] Servidor de almacenamiento inmutable y auditoría forense sobre Blockchain privada.
 - [ ] Estación de recepción de satélites de órbita baja mediante SDR (Software Defined Radio).
